@@ -6,6 +6,7 @@ Inicio
 
 total <- 0
 
+Escreval("Segunda versão")
 Escreval("Bem-vindo à Lanchonete Da Iasmim!")
 Escreval("Menu de Lanches:")
 Escreval("1 – X-Salada: R$8,00")
